@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">toto logo</title>
+  <desc id="desc">Six rounded segments forming a one-time password ring, with one active cyan segment.</desc>
+  <g fill="#4F46E5">
+    <rect x="200" y="76" width="112" height="48" rx="24"/>
+    <rect x="325" y="316" width="112" height="48" rx="24" transform="rotate(120 381 340)"/>
+    <rect x="200" y="388" width="112" height="48" rx="24"/>
+    <rect x="75" y="316" width="112" height="48" rx="24" transform="rotate(60 131 340)"/>
+    <rect x="75" y="148" width="112" height="48" rx="24" transform="rotate(120 131 172)"/>
+  </g>
+  <rect x="325" y="148" width="112" height="48" rx="24" fill="#06B6D4" transform="rotate(60 381 172)"/>
+</svg>

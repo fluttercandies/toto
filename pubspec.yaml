@@ -1,0 +1,28 @@
+name: toto
+description: AI-first TOTP and HOTP CLI with text, JSON, and LON output.
+version: 1.0.0
+homepage: https://pub.dev/packages/toto
+repository: https://github.com/fluttercandies/toto
+issue_tracker: https://github.com/fluttercandies/toto/issues
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  args: ^2.7.0
+  dart_dash_otp: ^2.0.0
+  lon: ^1.0.1
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: '>=1.25.5 <1.25.8'
+
+executables:
+  toto:
+
+topics:
+  - otp
+  - totp
+  - hotp
+  - cli
+  - ai
