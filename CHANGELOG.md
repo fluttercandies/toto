@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Add dartdoc coverage for the public programmatic API.
+- Add a runnable deterministic example for `runToto`.
+
 ## 1.0.0
 
 - Add AI-first TOTP and HOTP CLI commands.

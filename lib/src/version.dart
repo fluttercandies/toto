@@ -1,1 +1,1 @@
-const totoVersion = '1.0.0';
+const totoVersion = '1.0.1';

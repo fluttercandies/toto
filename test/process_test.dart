@@ -101,6 +101,6 @@ void main() {
 
     final version = await run(<String>['--version']);
     expect(version.exitCode, 0);
-    expect(version.stdout, 'toto 1.0.0\n');
+    expect(version.stdout, 'toto 1.0.1\n');
   });
 }
